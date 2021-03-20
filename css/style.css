@@ -1,0 +1,38 @@
+.bg-1 {
+   background-color: rgb(135, 206, 250);
+   color: black;
+}
+
+.bg-2{
+    background-color: lightcyan;
+    color: black;
+}
+
+.bg-3 {
+    background-color: whitesmoke;
+    color:black;
+}
+
+.container-fluid {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: red !important;
+}
+
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
